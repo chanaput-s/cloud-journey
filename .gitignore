@@ -1,0 +1,2 @@
+## Ignore the credentials file that contains sensitive information such as database host, username, and password.
+credentials.json
